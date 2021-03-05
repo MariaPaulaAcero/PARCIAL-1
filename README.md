@@ -1,3 +1,5 @@
+## Conceptos
+
 # Encapsulamiento
 
 El encapsulamiento nos permite ocultar el estado o de los datos miembro de un objeto, de forma que sólo es posible modificar los mismos mediante los métodos definidos para dicho objeto permitiéndonos tener un mayor control sobre ellas. En esta general mente utilizamos métodos como el set y el get.
