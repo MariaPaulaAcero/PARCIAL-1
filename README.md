@@ -2,6 +2,9 @@
 
 ![Untitled Diagram (4)](https://user-images.githubusercontent.com/78038428/110182401-afc1fa80-7dda-11eb-9d27-55362921e5c3.png)
 
+## Diseño 
+
+![Diagrama de Secuencia PARCIAL](https://user-images.githubusercontent.com/78038428/110185586-bce1e800-7de0-11eb-869f-ab25926532ee.png)
 
 ## Conceptos
 
