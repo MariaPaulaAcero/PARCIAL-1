@@ -1,6 +1,6 @@
 ## Memoria
 
-![Untitled Diagram (3)](https://user-images.githubusercontent.com/78038428/110181539-0da21280-7dda-11eb-9bb0-454d3a712aad.png)
+![Untitled Diagram (4)](https://user-images.githubusercontent.com/78038428/110182401-afc1fa80-7dda-11eb-9d27-55362921e5c3.png)
 
 
 ## Conceptos
