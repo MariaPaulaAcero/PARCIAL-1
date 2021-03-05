@@ -1,3 +1,28 @@
+# Encapsulamiento
+
+El encapsulamiento nos permite ocultar el estado o de los datos miembro de un objeto, de forma que sólo es posible modificar los mismos mediante los métodos definidos para dicho objeto permitiéndonos tener un mayor control sobre ellas. En esta general mente utilizamos métodos como el set y el get.
+
+Ventajas que nos ofrece 
+
+1)	Evita que modificaciones o accesos no deseados a los datos que almacenan las clases
+2)	Permite realizar cambios o mejoras sin que eso afecte el código completo 
+Vuelve en una sola unidad lógica atributos y comportamientos 
+
+# ¿Que es ocultación de información? ¿Por qué aplicarla? ¿Cómo se implementa en java?
+
+La ocultación de información nos permite restringir y controlar las modificaciones que se puedan realizar en un programa, como lo hace el encapsulamiento en los que podrá entrar el termino de modificadores de acceso los cuales contiene ciertos atributos privados, públicos y protegidos. En el caso del atributo primado se declarar miembros accesibles sólo para la propia clase. 
+
+¿Por qué aplicarla?
+
+Al realizar esto nos permitirá saber y entender cuando llamar o no los métodos, sin hacer cambios innecesarios o accidentales a nuestro código.
+
+¿Cómo se implementa en java?
+
+como lo he mencioando anterior mente se pude implementar con private y llamando la clase 
+
+
+
+
 # POOB-TEST-FIRST-SABANA-RESEARCH
 
 La Universidad de la Sabana quiere desarrollar un sistema de información para los grupos de interés de la comunidad de estudiantes. Estos grupos tienen como objetivo desarrollar proyectos innovadores en un área específica de conocimiento. Cada grupo tiene un líder responsable de aprobar y dar seguimiento a los proyectos que se ejecutan en su grupo. Los estudiantes pueden inscribirse a diferentes grupos de interés, si cumplen con los requisitos académicos definidos para cada uno de ellos, pero sólo pueden ser líderes de un grupo. La decanatura ha designado a los estudiantes de POOB de este semestre para construir la solución que permita.
