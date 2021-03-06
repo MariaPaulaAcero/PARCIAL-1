@@ -30,17 +30,17 @@ public class SabanaResearch {
      * @return The new Summary entry.
      */
     public Summary createSummaryEntry() {
-        return null;
+
 
         double ap;
-        Group g = null;
+        Group g = this.groups;
         g= this.groups()
 
         for ( Group g :groups){
             ap=g.countActiveProjects();
 
         }
-
+        return null;
     }
 
     //public Summary (int currentDate, String ap){
