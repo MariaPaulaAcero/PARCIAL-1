@@ -43,9 +43,9 @@ public class Project {
         this.isActive();
         return false;
 
-        for( i: iterations){
-        countOpenActivities();
+     //   for( i: iterations){
+      //  countOpenActivities();
     }
-       return this.isActive();
+       //return this.isActive();
 
 }

@@ -43,9 +43,9 @@ public class SabanaResearch {
 
     }
 
-    public Summary (int currentDate, String ap){
+    //public Summary (int currentDate, String ap){
 
-        LocalDate.now();
+      //  LocalDate.now();
 
     }
 }
