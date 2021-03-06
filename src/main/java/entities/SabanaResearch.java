@@ -9,6 +9,7 @@ public class SabanaResearch {
     private List<Group> groups;
     private List<Summary> summaries;
 
+
     public SabanaResearch(List<Group> groups) {
         this.groups = groups;
         this.summaries = new ArrayList<>();
@@ -30,5 +31,21 @@ public class SabanaResearch {
      */
     public Summary createSummaryEntry() {
         return null;
+
+        double ap;
+        Group g = null;
+        g= this.groups()
+
+        for ( Group g :groups){
+            ap=g.countActiveProjects();
+
+        }
+
+    }
+
+    public Summary (int currentDate, String ap){
+
+        LocalDate.now();
+
     }
 }
