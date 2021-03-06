@@ -47,5 +47,4 @@ public class Project {
       //  countOpenActivities();
     }
        //return this.isActive();
-
 }

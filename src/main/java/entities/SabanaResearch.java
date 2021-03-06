@@ -33,8 +33,8 @@ public class SabanaResearch {
 
 
         double ap;
-        Group g = this.groups;
-        g= this.groups()
+        //Group g = this.groups;
+        //g= this.groups()
 
         for ( Group g :groups){
             ap=g.countActiveProjects();
@@ -47,5 +47,4 @@ public class SabanaResearch {
 
       //  LocalDate.now();
 
-    }
 }
