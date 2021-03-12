@@ -4,7 +4,7 @@
 
 ## Diseño 
 
-![Diagrama de Secuencia PARCIAL](https://user-images.githubusercontent.com/78038428/110185586-bce1e800-7de0-11eb-869f-ab25926532ee.png)
+![Untitled Diagram (5)](https://user-images.githubusercontent.com/78038428/111010439-8bc76180-8364-11eb-8800-1635d1a3ee6c.png)
 
 ## Conceptos
 
