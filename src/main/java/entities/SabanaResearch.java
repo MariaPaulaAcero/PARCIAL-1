@@ -30,19 +30,18 @@ public class SabanaResearch {
      * @return The new Summary entry.
      */
     public Summary createSummaryEntry() {
-        int count = 0;
-        for (int i=0, groups.size()<i++){
-            count = new Summary(groups.get(i).countActiveProjects());
 
+       // int activeProjects = this.groups.stream().map(g->g.CountActiveProjects()).reduce(0,(a,b)->a+b);
+        int activeProjects =0;
+        for(Group g: this.groups){
+            activeProjects += g.CountActiveProjects();
         }
-        Summary su= new Summary(count,LocalDate.now());
-        summaries.add(Summary);
-        return summaries;
 
+        Summary summary =new Summary(activeProjects,LocalDate.now());
+        this.summaries.add(summary);
 
+        return summary;
 
     }
-
-
 
 }

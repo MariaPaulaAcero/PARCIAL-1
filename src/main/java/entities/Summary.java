@@ -6,15 +6,12 @@ public class Summary {
 
     private int activeProjects;
     private LocalDate date;
-    private int openActivities;
 
 
-    public Summary(int activeProjects) {
+
+
+    Summary(int activeProjects, LocalDate date){
         this.activeProjects = activeProjects;
-    }
-
-    private Summary (int openActivities, LocalDate date){
-        this.openActivities = openActivities;
         this.date = date;
     }
 

@@ -17,8 +17,13 @@ public class Group {
         this.projects.add(plan);
     }
 
+
     public double countActiveProjects() {
         return 0;
+    }
+
+    public int CountActiveProjects() {
+        return (int) this.projects.stream().map(p->p.isActive()).filter(b->b).count();
     }
 
     /*public double countActiveProjects() {
