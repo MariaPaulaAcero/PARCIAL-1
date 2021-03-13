@@ -3,8 +3,8 @@
 ![Untitled Diagram (4)](https://user-images.githubusercontent.com/78038428/110182401-afc1fa80-7dda-11eb-9d27-55362921e5c3.png)
 
 ## Diseño 
+![correccion Diseño](https://user-images.githubusercontent.com/78038428/111010684-36d81b00-8365-11eb-9a8a-3162402fe1f8.png)
 
-![Untitled Diagram (5)](https://user-images.githubusercontent.com/78038428/111010439-8bc76180-8364-11eb-8800-1635d1a3ee6c.png)
 
 ## Conceptos
 
